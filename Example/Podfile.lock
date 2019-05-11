@@ -1,0 +1,16 @@
+PODS:
+  - DNKitUtils (0.1.0)
+
+DEPENDENCIES:
+  - DNKitUtils (from `../`)
+
+EXTERNAL SOURCES:
+  DNKitUtils:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DNKitUtils: ed9e37f8fa02b446ea96eb86f7c8bf22ef527804
+
+PODFILE CHECKSUM: 43c5f72599afad6d1ed7cf3696cda508af6bace2
+
+COCOAPODS: 1.5.3

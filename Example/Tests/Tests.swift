@@ -1,5 +1,4 @@
 import XCTest
-import DNKitUtils
 
 class Tests: XCTestCase {
     
